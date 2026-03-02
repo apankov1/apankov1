@@ -1,7 +1,7 @@
-## Hey, I’m Andrew 👋
+## Hey, I’m Andrew
 
-Engineering leader with 17+ years shipping reliable software across FinTech, EdTech, Trading, and IoT — from seed-stage startups to Cloudflare and Google. I build teams, shape technical strategy, and get hands-on when it counts.
+Engineering leader with 15+ years in Quality Engineering — from first QA hire at startups to managing teams at Cloudflare. I build teams, shape technical strategy, and get hands-on when it counts.
 
-Currently researching how the latest AI tools can help us build and test software better — see [quality-engineering](https://github.com/apankov1/quality-engineering) for an example.
+Currently building [AI Lines](https://ai-lines.app/play) — a real-time multiplayer game on Cloudflare Workers and Durable Objects — and open-sourcing the testing patterns that came out of it in [quality-engineering](https://github.com/apankov1/quality-engineering).
 
-🔗 [LinkedIn](https://www.linkedin.com/in/andrewpankov) · 📧 andrew.pankov@me.com
+[LinkedIn](https://www.linkedin.com/in/andrewpankov) · andrew.pankov@me.com
