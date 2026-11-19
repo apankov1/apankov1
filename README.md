@@ -1,5 +1,9 @@
-## Hey, I’m Andrew
+## Hey, I'm Andrew
 
-Engineering leader with 15+ years in Quality Engineering — from first QA hire at startups to managing teams at Cloudflare. I build teams, shape technical strategy, and get hands-on when it counts.
+I build quality engineering functions and the test platforms they run on.
 
-[LinkedIn](https://www.linkedin.com/in/andrewpankov) · andrew.pankov@me.com
+[Resume](https://andrewpankov.com/resume/) · [Website](https://andrewpankov.com) · [LinkedIn](https://www.linkedin.com/in/andrewpankov)
+
+<!-- Links only (apankov1/workbench#157): resume facts live in workbench's
+resume/resume.yaml and are not restated here. Contact details are on the
+site behind Turnstile, so no email here. -->
